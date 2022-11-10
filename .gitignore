@@ -16,6 +16,3 @@ env/
 # IntelliJ
 .idea/
 *.iml
-
-something-that-should-never-be-there-anyway
-
